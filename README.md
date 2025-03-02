@@ -30,8 +30,8 @@ Detected Coins : <br>
 
 **Image Stitching**
 Input Image : <br>
-<img width="572" alt="image" src="https://github.com/user-attachments/assets/b76feae0-efee-4e10-82e9-ae8364b96ba2" />
-<img width="574" alt="image" src="https://github.com/user-attachments/assets/cce07676-2540-497b-8c38-8bf2babfe01a" />
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/b76feae0-efee-4e10-82e9-ae8364b96ba2" /> <br>
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/cce07676-2540-497b-8c38-8bf2babfe01a" /> <br>
 <img width="572" alt="image" src="https://github.com/user-attachments/assets/1bbd6f0a-f559-480f-91a8-cec32a3f6665" /><br><br>
 
 Image Keypoins : <br>
