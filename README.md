@@ -1,4 +1,4 @@
-# VR_Assignment1_AkshatAbhishekLal_MT2024015 <br>
+![Image_3](https://github.com/user-attachments/assets/221ac66b-a9dd-4dce-8f6b-196f13f58db4)![Image_1](https://github.com/user-attachments/assets/fd858d50-8f01-42b5-9fca-21c4df4bdbcb)# VR_Assignment1_AkshatAbhishekLal_MT2024015 <br>
 - Requirements: <br>
   - Make sure Python is installed in the system <br>
   - Other Dependecies : <br>
@@ -27,6 +27,19 @@ Segmented Coins (6-10) : <br>
 <img width="142" alt="image" src="https://github.com/user-attachments/assets/b9a44736-80b2-43db-b567-661208402029" /><br><br>
 Detected Coins : <br>
 <img width="321" alt="image" src="https://github.com/user-attachments/assets/969f09af-9e59-4fbf-8330-e7d5d179af49" /><br><br>
+
+**Image Stitching**
+Input Image : <br>
+![Image_3](https://github.com/user-attachments/assets/398cd924-b903-44d2-af65-6a8fc84ad21b)
+![Image_2](https://github.com/user-attachments/assets/20a00e10-0ce6-4fe9-8066-4d8f1cce95d3)
+![Image_1](https://github.com/user-attachments/assets/1f0c1138-838b-4849-9cbb-ae6a360d82aa) <br><br>
+
+Image Keypoins : <br>
+<img width="1134" alt="image" src="https://github.com/user-attachments/assets/7b67bc0e-aab8-4491-ab42-eaa327b47ff8" /> <br>
+
+Stitched Panorama : <br>
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/cf565d76-7690-4bbd-9f19-564369abd1f9" />
+
 
 
 
