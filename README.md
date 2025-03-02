@@ -17,7 +17,8 @@ Run the files :
     jupyter nbconvert --to notebook --inplace --execute imageStitching.ipynb
 
 **COIN DETECTION**
-Input Image : 
+Input Image :
+
 ![coins](https://github.com/user-attachments/assets/95b39def-9ac6-46b1-9b1c-e155d2ac4f92)
 Canny Edge Output : 
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/82bc72c8-2cc9-4b92-80c8-d479e0b8770e" />
