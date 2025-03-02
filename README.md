@@ -1,4 +1,4 @@
-![Image_3](https://github.com/user-attachments/assets/221ac66b-a9dd-4dce-8f6b-196f13f58db4)![Image_1](https://github.com/user-attachments/assets/fd858d50-8f01-42b5-9fca-21c4df4bdbcb)# VR_Assignment1_AkshatAbhishekLal_MT2024015 <br>
+# VR_Assignment1_AkshatAbhishekLal_MT2024015 <br>
 - Requirements: <br>
   - Make sure Python is installed in the system <br>
   - Other Dependecies : <br>
@@ -30,9 +30,9 @@ Detected Coins : <br>
 
 **Image Stitching**
 Input Image : <br>
-![Image_3](https://github.com/user-attachments/assets/398cd924-b903-44d2-af65-6a8fc84ad21b)
-![Image_2](https://github.com/user-attachments/assets/20a00e10-0ce6-4fe9-8066-4d8f1cce95d3)
-![Image_1](https://github.com/user-attachments/assets/1f0c1138-838b-4849-9cbb-ae6a360d82aa) <br><br>
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/b76feae0-efee-4e10-82e9-ae8364b96ba2" />
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/cce07676-2540-497b-8c38-8bf2babfe01a" />
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/1bbd6f0a-f559-480f-91a8-cec32a3f6665" /><br><br>
 
 Image Keypoins : <br>
 <img width="1134" alt="image" src="https://github.com/user-attachments/assets/7b67bc0e-aab8-4491-ab42-eaa327b47ff8" /> <br>
